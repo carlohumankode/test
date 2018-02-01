@@ -1,5 +1,5 @@
 # README
 oh, hai there!
 some even more text
-local line
-a new local line
+my local line
+another line of text
