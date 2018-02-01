@@ -2,4 +2,6 @@
 oh, hai there!
 some even more text
 local line
-a new local line
+remote line
+some more remote text
+even more remote text
